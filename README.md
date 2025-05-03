@@ -6,16 +6,18 @@
   <a href="https://github.com/Arshnoor-Singh-Sohi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
+Arshnoor Singh Sohi's GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshnoor-Singh-Sohi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arshnoor-Singh-Sohi&theme=radical" alt="Arshnoor's GitHub Activity" width="100%" />
 </div>
 
 ## 🚀 About Me
 
-Master's student in **Applied Computing (AI Specialization** at the University of Windsor with expertise in RAG systems and full-stack development. I specialize in building end-to-end RAG pipelines with LangChain, FAISS, and HuggingFace. Proficient in automating ML workflows, deploying production-ready services, and transforming prototypes into scalable applications.
+Master's student in **Applied Computing (AI Specialization)** at the University of Windsor with expertise in RAG systems and full-stack development. I specialize in building end-to-end RAG pipelines with LangChain, FAISS, and HuggingFace. Proficient in automating ML workflows, deploying production-ready services, and transforming prototypes into scalable applications.
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshnoor-Singh-Sohi&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshnoor-Singh-Sohi&theme=radical" alt="GitHub Streak Stats" width="100%" />
 </div>
 
 ## 💻 Featured Projects
