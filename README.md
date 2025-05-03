@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Master's student in **Applied Computing (AI Specialization)** at the University of Windsor with expertise in RAG systems and full-stack development. I specialize in building end-to-end RAG pipelines with LangChain, FAISS, and HuggingFace. Proficient in automating ML workflows, deploying production-ready services, and transforming prototypes into scalable applications.
+Master's student in **Applied Computing (AI Specialization** at the University of Windsor with expertise in RAG systems and full-stack development. I specialize in building end-to-end RAG pipelines with LangChain, FAISS, and HuggingFace. Proficient in automating ML workflows, deploying production-ready services, and transforming prototypes into scalable applications.
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshnoor-Singh-Sohi&theme=radical" alt="GitHub Streak Stats"/>
