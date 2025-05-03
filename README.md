@@ -6,8 +6,6 @@
   <a href="https://github.com/Arshnoor-Singh-Sohi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
-Arshnoor Singh Sohi's GitHub Stats
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arshnoor-Singh-Sohi&theme=radical" alt="Arshnoor's GitHub Activity" width="100%" />
 </div>
