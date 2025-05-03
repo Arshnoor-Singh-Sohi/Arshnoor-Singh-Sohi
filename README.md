@@ -192,15 +192,6 @@ Master's student in **Applied Computing (AI Specialization)** at the University 
   - Implemented multithreaded applications and Java Collections Framework
   - Applied best practices in exception handling, generics, and I/O operations
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshnoor-Singh-Sohi&layout=compact&theme=radical" alt="Most Used Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arshnoor-Singh-Sohi&theme=radical&row=1&column=7" alt="trophy"/>
-</div>
 
 ## 📫 Connect With Me
 
