@@ -38,8 +38,8 @@ Master's student in **Applied Computing (AI Specialization)** at the University 
   <!-- Activity Calendar -->
   ## 📊 Activity & Contributions
 
- <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arshnoor-Singh-Sohi&theme=tokyonight" width="100%" alt="Contribution Graph"/>
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arshnoor-Singh-Sohi&theme=tokyonight" width="100%" alt="Activity Graph"/>
   </div>
   
   ## 🏆 GitHub Trophies
