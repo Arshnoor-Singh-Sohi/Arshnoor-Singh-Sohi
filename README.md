@@ -36,12 +36,17 @@ Master's student in **Applied Computing (AI Specialization)** at the University 
   </div>
   
   <!-- Activity Calendar -->
-  <h3>Activity & Contributions</h3>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Arshnoor-Singh-Sohi&theme=radical&bg_color=20232a&hide_border=true" width="100%" />
+  ## 📊 Activity & Contributions
+
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arshnoor-Singh-Sohi&theme=radical&hide_border=true" width="100%" alt="Contribution Graph"/>
+  </div>
   
-  <!-- Repository Trophies -->
-  <h3>GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Arshnoor-Singh-Sohi&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
+  ## 🏆 GitHub Trophies
+  
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Arshnoor-Singh-Sohi&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </div>
 </div>
 
 ## 💻 Featured Projects
