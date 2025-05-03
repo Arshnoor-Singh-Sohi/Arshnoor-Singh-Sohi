@@ -39,7 +39,7 @@ Master's student in **Applied Computing (AI Specialization)** at the University 
   ## 📊 Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arshnoor-Singh-Sohi&theme=radical&hide_border=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arshnoor-Singh-Sohi&theme=react&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
   
