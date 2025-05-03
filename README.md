@@ -39,20 +39,20 @@ Master's student in **Applied Computing (AI Specialization)** at the University 
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Jotion</h3>
-      <div align="center">
-        <a href="[https://github.com/Arshnoor-Singh-Sohi/Jotion](https://github.com/Arshnoor-Singh-Sohi/Jotion)" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Arshnoor-Singh-Sohi&repo=Jotion&theme=radical" alt="Repo Card"/></a>
-        <p>
-          <a href="https://github.com/Arshnoor-Singh-Sohi/Jotion" target="_blank">
-            <img src="https://img.shields.io/badge/Code-0A0A0A?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
-          </a>
-          <a href="https://jotion-theta.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-        </p>
-        <p><strong>TypeScript, React, Next.js, Clerk, Convex</strong></p>
-        <p>Web app featuring real-time collaboration, rich text editing, file management, and responsive design with light/dark mode.</p>
-      </div>
+          <h3 align="center">Jotion</h3>
+          <div align="center">
+            <a href="https://github.com/Arshnoor-Singh-Sohi/Jotion" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Arshnoor-Singh-Sohi&repo=Jotion&theme=radical" alt="Repo Card"/></a>
+            <p>
+              <a href="https://github.com/Arshnoor-Singh-Sohi/Jotion" target="_blank">
+                <img src="https://img.shields.io/badge/Code-0A0A0A?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/>
+              </a>
+              <a href="https://jotion-theta.vercel.app/" target="_blank">
+                <img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/>
+              </a>
+            </p>
+            <p><strong>TypeScript, React, Next.js, Clerk, Convex</strong></p>
+            <p>Web app featuring real-time collaboration, rich text editing, file management, and responsive design with light/dark mode.</p>
+          </div>
     </td>
   </tr>
   <tr>
