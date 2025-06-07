@@ -143,7 +143,6 @@
 <div align="center">
   <p><em>📊 Coding metrics will appear here once WakaTime is configured</em></p>
 </div>
----
 
 ## 💻 Featured Projects
 
