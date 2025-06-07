@@ -1,0 +1,34 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Pull latest Hashnode posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://arshnoor.hashnode.dev/rss.xml"
+          max_post_count: 3
+          template: "- 🚀 [$title]($url)"
+          commit_message: "Updated with latest Hashnode posts"
+          committer_username: "blog-post-bot"
+          committer_email: "blog-post-bot@example.com"
+          
+      - name: Pull latest Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@arshnoorsinghsohi"
+          max_post_count: 3
+          template: "- 🎯 [$title]($url)"
+          commit_message: "Updated with latest Medium posts"
+          committer_username: "blog-post-bot"
+          committer_email: "blog-post-bot@example.com"
+          comment_tag_name: "MEDIUM-POST-LIST"

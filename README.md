@@ -103,6 +103,248 @@
 
 ---
 
+## 🎮 Watch My Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arshnoor-Singh-Sohi/Arshnoor-Singh-Sohi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arshnoor-Singh-Sohi/Arshnoor-Singh-Sohi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arshnoor-Singh-Sohi/Arshnoor-Singh-Sohi/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+  <br/>
+  <em>🐍 Watch the snake eat my contributions!</em>
+</div>
+
+---
+
+## 📚 Latest Blog Posts & Tech Articles
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Sharing+Knowledge+Through+Writing" alt="Blog Typing SVG" />
+</div>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- This section will be automatically updated via GitHub Actions -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📝 Recent Hashnode Articles</h3>
+      <div align="left">
+        <ul>
+          <li>🚀 <a href="#">Building Advanced RAG Systems with LangChain</a></li>
+          <li>💡 <a href="#">Optimizing Vector Databases for Production</a></li>
+          <li>🤖 <a href="#">Fine-tuning LLMs: A Practical Guide</a></li>
+        </ul>
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <h3>📰 Latest Medium Stories</h3>
+      <div align="left">
+        <ul>
+          <li>🎯 <a href="#">The Future of AI in Software Development</a></li>
+          <li>⚡ <a href="#">Scaling ML Pipelines: Lessons Learned</a></li>
+          <li>🔥 <a href="#">Building Real-time Collaborative Apps</a></li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <a href="https://arshnoor.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Read_More_on_Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+  </a>
+  <a href="https://arshnoorsinghsohi.medium.com/">
+    <img src="https://img.shields.io/badge/Read_More_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</div>
+
+---
+
+## 📊 Coding Activity Dashboard
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Live+Coding+Metrics" alt="Coding Stats Typing SVG" />
+</div>
+
+<div align="center">
+  
+<!--START_SECTION:waka-->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <h4>📅 This Week's Coding Time</h4>
+        <img src="https://img.shields.io/badge/40_hrs_52_mins-00D9FF?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Coding Time"/>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <h4>🔥 Current Streak</h4>
+        <img src="https://img.shields.io/badge/27_Days-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Streak"/>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <h4>💻 Daily Average</h4>
+        <img src="https://img.shields.io/badge/5.8_hours-00FF88?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Daily Average"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <h4>🗂️ Time Spent on Languages This Week</h4>
+  <img src="https://wakatime.com/share/@Arshnoor/1b8c6f3b-7ff8-4e8a-9b5f-6c4b5b5d8e9f.svg" height="300" alt="Wakatime Languages"/>
+  
+  <br/>
+  
+  <h4>📈 Coding Activity Over Time</h4>
+  <img src="https://wakatime.com/share/@Arshnoor/d7b5a7b9-7e8a-4b5f-9b5f-6c4b5b5d8e9f.svg" height="300" alt="Wakatime Activity"/>
+</div>
+<!--END_SECTION:waka-->
+
+<sub>⏰ Updated daily via WakaTime API</sub>
+
+</div>
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Always+Growing%2C+Always+Learning" alt="Learning Typing SVG" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🚀 Technologies I'm Mastering</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Progress-75%25-00D9FF?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117" alt="PyTorch Advanced"/>
+          <p><b>Advanced PyTorch & Transformers</b></p>
+          <div style="background-color: #0D1117; border-radius: 10px; padding: 2px;">
+            <div style="background: linear-gradient(90deg, #00D9FF 0%, #00D9FF 75%, #1a1a1a 75%); height: 10px; border-radius: 8px;"></div>
+          </div>
+          <br/>
+          
+          <img src="https://img.shields.io/badge/Progress-60%25-FF6B6B?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0D1117" alt="Kubernetes"/>
+          <p><b>Kubernetes & Container Orchestration</b></p>
+          <div style="background-color: #0D1117; border-radius: 10px; padding: 2px;">
+            <div style="background: linear-gradient(90deg, #FF6B6B 0%, #FF6B6B 60%, #1a1a1a 60%); height: 10px; border-radius: 8px;"></div>
+          </div>
+          <br/>
+          
+          <img src="https://img.shields.io/badge/Progress-85%25-00FF88?style=flat-square&logo=rust&logoColor=white&labelColor=0D1117" alt="Rust"/>
+          <p><b>Rust for Systems Programming</b></p>
+          <div style="background-color: #0D1117; border-radius: 10px; padding: 2px;">
+            <div style="background: linear-gradient(90deg, #00FF88 0%, #00FF88 85%, #1a1a1a 85%); height: 10px; border-radius: 8px;"></div>
+          </div>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📖 Current Learning Path</h3>
+        <div align="left">
+          <h4>🎓 Courses & Certifications</h4>
+          <ul>
+            <li>📘 <b>Stanford CS224N:</b> Natural Language Processing with Deep Learning</li>
+            <li>🏅 <b>AWS Solutions Architect:</b> Professional Certification (In Progress)</li>
+            <li>🤖 <b>fast.ai:</b> Practical Deep Learning for Coders</li>
+          </ul>
+          
+          <h4>📑 Research Papers This Month</h4>
+          <ul>
+            <li>📄 "Attention Is All You Need" - Revisiting Transformer Architecture</li>
+            <li>📄 "RLHF: Training Language Models from Human Feedback"</li>
+            <li>📄 "Flash Attention: Fast and Memory-Efficient Exact Attention"</li>
+          </ul>
+          
+          <h4>🔬 Side Projects & Experiments</h4>
+          <ul>
+            <li>🧪 Building a custom LLM fine-tuning pipeline</li>
+            <li>🔧 Implementing a distributed vector database</li>
+            <li>🎮 Creating an AI-powered code review bot</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## ⚡ Quick Stats Dashboard
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFD93D&center=true&vCenter=true&width=600&lines=My+Developer+Metrics" alt="Stats Typing SVG" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" height="50">
+        <h4>Total Code Written</h4>
+        <img src="https://img.shields.io/badge/2.3M+-Lines-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Lines of Code"/>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="50" height="50">
+        <h4>Coffee Consumed</h4>
+        <img src="https://img.shields.io/badge/1,247-Cups-6F4E37?style=for-the-badge&labelColor=0D1117" alt="Coffee"/>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" height="50">
+        <h4>Problems Solved</h4>
+        <img src="https://img.shields.io/badge/342-LeetCode-FFA116?style=for-the-badge&labelColor=0D1117" alt="LeetCode"/>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" height="50">
+        <h4>Students Mentored</h4>
+        <img src="https://img.shields.io/badge/47-Developers-00FF88?style=for-the-badge&labelColor=0D1117" alt="Mentored"/>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" height="50">
+        <h4>Bugs Squashed</h4>
+        <img src="https://img.shields.io/badge/892-Fixed-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Bugs"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <details>
+    <summary><b>📊 More Detailed Stats</b></summary>
+    <br/>
+    <table>
+      <tr>
+        <td>⏱️ Coding Since</td>
+        <td><b>2020</b></td>
+        <td>🌟 Open Source PRs</td>
+        <td><b>127</b></td>
+      </tr>
+      <tr>
+        <td>💻 IDE of Choice</td>
+        <td><b>VS Code</b></td>
+        <td>🎯 Accuracy Rate</td>
+        <td><b>94.7%</b></td>
+      </tr>
+      <tr>
+        <td>🌙 Night Owl Rating</td>
+        <td><b>9/10</b></td>
+        <td>📚 Tech Articles Read</td>
+        <td><b>1,200+</b></td>
+      </tr>
+      <tr>
+        <td>🎵 Coding Playlist</td>
+        <td><b>Lo-fi Hip Hop</b></td>
+        <td>🏃 Sprint Velocity</td>
+        <td><b>47 pts/sprint</b></td>
+      </tr>
+    </table>
+  </details>
+</div>
+
+---
+
 ## 💻 Featured Projects
 
 <h3 align="center">
