@@ -173,14 +173,12 @@
             <div style="background: linear-gradient(90deg, #00D9FF 0%, #00D9FF 75%, #1a1a1a 75%); height: 10px; border-radius: 8px;"></div>
           </div>
           <br/>
-          
           <img src="https://img.shields.io/badge/Progress-60%25-FF6B6B?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0D1117" alt="Kubernetes"/>
           <p><b>Kubernetes & Container Orchestration</b></p>
           <div style="background-color: #0D1117; border-radius: 10px; padding: 2px;">
             <div style="background: linear-gradient(90deg, #FF6B6B 0%, #FF6B6B 60%, #1a1a1a 60%); height: 10px; border-radius: 8px;"></div>
           </div>
           <br/>
-          
           <img src="https://img.shields.io/badge/Progress-85%25-00FF88?style=flat-square&logo=rust&logoColor=white&labelColor=0D1117" alt="Rust"/>
           <p><b>Rust for Systems Programming</b></p>
           <div style="background-color: #0D1117; border-radius: 10px; padding: 2px;">
@@ -197,14 +195,12 @@
             <li>🏅 <b>AWS Solutions Architect:</b> Professional Certification (In Progress)</li>
             <li>🤖 <b>fast.ai:</b> Practical Deep Learning for Coders</li>
           </ul>
-          
           <h4>📑 Research Papers This Month</h4>
           <ul>
             <li>📄 "Attention Is All You Need" - Revisiting Transformer Architecture</li>
             <li>📄 "RLHF: Training Language Models from Human Feedback"</li>
             <li>📄 "Flash Attention: Fast and Memory-Efficient Exact Attention"</li>
           </ul>
-          
           <h4>🔬 Side Projects & Experiments</h4>
           <ul>
             <li>🧪 Building a custom LLM fine-tuning pipeline</li>
