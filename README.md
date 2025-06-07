@@ -105,13 +105,6 @@
 
 ## 🎮 My Contribution Snake
 
-<!-- <div align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arshnoor-Singh-Sohi/Arshnoor-Singh-Sohi/main/dist/github-contribution-grid-snake.svg">
-  <br/>
-  <em>🐍 Watch the snake eat my contributions!</em>
-</div> -->
-## 🐍 Contribution Snake
-
 ![Snake animation](https://raw.githubusercontent.com/Arshnoor-Singh-Sohi/Arshnoor-Singh-Sohi/main/dist/snake.svg)
 ---
 
@@ -135,77 +128,21 @@
 </div>
 
 ---
-## ⚡ Quick Stats Dashboard
-
+## 📊 Coding Activity Dashboard
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFD93D&center=true&vCenter=true&width=600&lines=My+Developer+Metrics" alt="Stats Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Live+Coding+Metrics" alt="Coding Stats Typing SVG" />
 </div>
-
+<!--START_SECTION:waka-->
+<!-- WakaTime stats will appear here once configured -->
+<!-- Instructions: -->
+<!-- 1. Sign up at https://wakatime.com -->
+<!-- 2. Install WakaTime plugin in your IDE -->
+<!-- 3. Add WAKATIME_API_KEY to repository secrets -->
+<!-- 4. Stats will appear here after 24 hours of coding -->
+<!--END_SECTION:waka-->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" height="50">
-        <h4>Total Code Written</h4>
-        <img src="https://img.shields.io/badge/2.3M+-Lines-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Lines of Code"/>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="50" height="50">
-        <h4>Coffee Consumed</h4>
-        <img src="https://img.shields.io/badge/1,247-Cups-6F4E37?style=for-the-badge&labelColor=0D1117" alt="Coffee"/>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" height="50">
-        <h4>Problems Solved</h4>
-        <img src="https://img.shields.io/badge/342-LeetCode-FFA116?style=for-the-badge&labelColor=0D1117" alt="LeetCode"/>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" height="50">
-        <h4>Students Mentored</h4>
-        <img src="https://img.shields.io/badge/47-Developers-00FF88?style=for-the-badge&labelColor=0D1117" alt="Mentored"/>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" height="50">
-        <h4>Bugs Squashed</h4>
-        <img src="https://img.shields.io/badge/892-Fixed-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Bugs"/>
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <details>
-    <summary><b>📊 More Detailed Stats</b></summary>
-    <br/>
-    <table>
-      <tr>
-        <td>⏱️ Coding Since</td>
-        <td><b>2020</b></td>
-        <td>🌟 Open Source PRs</td>
-        <td><b>127</b></td>
-      </tr>
-      <tr>
-        <td>💻 IDE of Choice</td>
-        <td><b>VS Code</b></td>
-        <td>🎯 Accuracy Rate</td>
-        <td><b>94.7%</b></td>
-      </tr>
-      <tr>
-        <td>🌙 Night Owl Rating</td>
-        <td><b>9/10</b></td>
-        <td>📚 Tech Articles Read</td>
-        <td><b>1,200+</b></td>
-      </tr>
-      <tr>
-        <td>🎵 Coding Playlist</td>
-        <td><b>Lo-fi Hip Hop</b></td>
-        <td>🏃 Sprint Velocity</td>
-        <td><b>47 pts/sprint</b></td>
-      </tr>
-    </table>
-  </details>
+  <p><em>📊 Coding metrics will appear here once WakaTime is configured</em></p>
 </div>
-
 ---
 
 ## 💻 Featured Projects
