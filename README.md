@@ -115,7 +115,7 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- Posts will appear here automatically once you set up the GitHub Action -->
+- [What Is Artificial Intelligence?](https://arshnoorsinghsohi.medium.com/what-is-artificial-intelligence-adcb47daa2af?source=rss-35686e905895------2)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
