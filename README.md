@@ -105,12 +105,14 @@
 
 ## 🎮 My Contribution Snake
 
-<div align="center">
+<!-- <div align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arshnoor-Singh-Sohi/Arshnoor-Singh-Sohi/main/dist/github-contribution-grid-snake.svg">
   <br/>
   <em>🐍 Watch the snake eat my contributions!</em>
-</div>
+</div> -->
+## 🐍 Contribution Snake
 
+![Snake animation](https://raw.githubusercontent.com/Arshnoor-Singh-Sohi/Arshnoor-Singh-Sohi/main/dist/snake.svg)
 ---
 
 ## 📚 Latest Blog Posts & Tech Articles
