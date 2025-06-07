@@ -133,7 +133,7 @@
 </div>
 
 ---
-
+```
 ## 📊 Coding Activity Dashboard
 
 <div align="center">
@@ -214,7 +214,7 @@
 </div>
 
 ---
-
+```
 ## ⚡ Quick Stats Dashboard
 
 <div align="center">
