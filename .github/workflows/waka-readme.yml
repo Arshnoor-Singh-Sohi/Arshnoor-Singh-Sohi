@@ -1,27 +1,26 @@
-name: Waka Readme
+name: Generate Snake
 
 on:
   schedule:
-    - cron: '30 18 * * *'  # Runs at 6:30 PM UTC daily
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update Readme with WakaTime Metrics
+  generate:
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: actions/checkout@v3
+      
+      - uses: Platane/snk@v3
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_SHORT_INFO: "True"
-          SHOW_LOC_CHART: "True"
+          github_user_name: Arshnoor-Singh-Sohi
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+      
+      - uses: EndBug/add-and-commit@v9
+        with:
+          branch: main
+          add: 'dist/github-contribution-grid-snake*.svg'
+          message: 'Generate snake animation'

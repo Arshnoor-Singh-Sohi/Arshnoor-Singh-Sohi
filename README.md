@@ -103,15 +103,10 @@
 
 ---
 
-## 🎮 Watch My Contribution Snake
+## 🎮 My Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arshnoor-Singh-Sohi/Arshnoor-Singh-Sohi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arshnoor-Singh-Sohi/Arshnoor-Singh-Sohi/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arshnoor-Singh-Sohi/Arshnoor-Singh-Sohi/output/github-contribution-grid-snake.svg">
-  </picture>
-  
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arshnoor-Singh-Sohi/Arshnoor-Singh-Sohi/main/dist/github-contribution-grid-snake.svg">
   <br/>
   <em>🐍 Watch the snake eat my contributions!</em>
 </div>
@@ -125,39 +120,15 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically updated via GitHub Actions -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>📝 Recent Hashnode Articles</h3>
-      <div align="left">
-        <ul>
-          <li>🚀 <a href="#">Building Advanced RAG Systems with LangChain</a></li>
-          <li>💡 <a href="#">Optimizing Vector Databases for Production</a></li>
-          <li>🤖 <a href="#">Fine-tuning LLMs: A Practical Guide</a></li>
-        </ul>
-      </div>
-    </td>
-    <td align="center" width="50%">
-      <h3>📰 Latest Medium Stories</h3>
-      <div align="left">
-        <ul>
-          <li>🎯 <a href="#">The Future of AI in Software Development</a></li>
-          <li>⚡ <a href="#">Scaling ML Pipelines: Lessons Learned</a></li>
-          <li>🔥 <a href="#">Building Real-time Collaborative Apps</a></li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- Posts will appear here automatically once you set up the GitHub Action -->
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
   <a href="https://arshnoor.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Read_More_on_Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+    <img src="https://img.shields.io/badge/Visit_My_Hashnode_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
   </a>
   <a href="https://arshnoorsinghsohi.medium.com/">
-    <img src="https://img.shields.io/badge/Read_More_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
 
@@ -169,41 +140,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Live+Coding+Metrics" alt="Coding Stats Typing SVG" />
 </div>
 
-<div align="center">
-  
 <!--START_SECTION:waka-->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <h4>📅 This Week's Coding Time</h4>
-        <img src="https://img.shields.io/badge/40_hrs_52_mins-00D9FF?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Coding Time"/>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <h4>🔥 Current Streak</h4>
-        <img src="https://img.shields.io/badge/27_Days-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Streak"/>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <h4>💻 Daily Average</h4>
-        <img src="https://img.shields.io/badge/5.8_hours-00FF88?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Daily Average"/>
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <h4>🗂️ Time Spent on Languages This Week</h4>
-  <img src="https://wakatime.com/share/@Arshnoor/1b8c6f3b-7ff8-4e8a-9b5f-6c4b5b5d8e9f.svg" height="300" alt="Wakatime Languages"/>
-  
-  <br/>
-  
-  <h4>📈 Coding Activity Over Time</h4>
-  <img src="https://wakatime.com/share/@Arshnoor/d7b5a7b9-7e8a-4b5f-9b5f-6c4b5b5d8e9f.svg" height="300" alt="Wakatime Activity"/>
-</div>
+<!-- WakaTime stats will appear here once configured -->
+<!-- Instructions: -->
+<!-- 1. Sign up at https://wakatime.com -->
+<!-- 2. Install WakaTime plugin in your IDE -->
+<!-- 3. Add WAKATIME_API_KEY to repository secrets -->
+<!-- 4. Stats will appear here after 24 hours of coding -->
 <!--END_SECTION:waka-->
 
-<sub>⏰ Updated daily via WakaTime API</sub>
-
+<div align="center">
+  <p><em>📊 Coding metrics will appear here once WakaTime is configured</em></p>
 </div>
 
 ---
