@@ -133,12 +133,44 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Live+Coding+Metrics" alt="Coding Stats Typing SVG" />
 </div>
 <!--START_SECTION:waka-->
-<!-- WakaTime stats will appear here once configured -->
-<!-- Instructions: -->
-<!-- 1. Sign up at https://wakatime.com -->
-<!-- 2. Install WakaTime plugin in your IDE -->
-<!-- 3. Add WAKATIME_API_KEY to repository secrets -->
-<!-- 4. Stats will appear here after 24 hours of coding -->
+![Code Time](http://img.shields.io/badge/Code%20Time-593%20hrs%204%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                44 commits          █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+🌆 Daytime                80 commits          █████████░░░░░░░░░░░░░░░░   36.87 % 
+🌃 Evening                69 commits          ████████░░░░░░░░░░░░░░░░░   31.80 % 
+🌙 Night                  24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Tuesday                  61 commits          ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+Wednesday                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Thursday                 21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Friday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Saturday                 45 commits          █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Sunday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   10 hrs 22 mins      ██████████████░░░░░░░░░░░   57.62 % 
+HTML                     3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Other                    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+```
+
+
+ Last Updated on 08/06/2025 19:22:04 UTC
 <!--END_SECTION:waka-->
 <div align="center">
   <p><em>📊 Coding metrics will appear here once WakaTime is configured</em></p>
