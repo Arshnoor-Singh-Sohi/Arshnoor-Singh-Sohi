@@ -134,7 +134,7 @@
 <div align="center">
   
   <!-- Creative Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,28,30,32&height=200&section=header&text=1.6%20Million%20Lines%20of%20Code&fontSize=45&fontColor=00D9FF&desc=『%20From%20Hello%20World%20to%20Production%20』&descSize=25&descAlignY=80&animation=scaleIn&fontAlignY=45" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=1.6%20Million%20Lines%20of%20Code&fontSize=45&fontColor=00FF00&desc=『%20From%20Hello%20World%20to%20Production%20』&descSize=25&descAlignY=80&animation=twinkling" width="100%" />
   
   <br/><br/>
   
