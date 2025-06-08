@@ -1,26 +1,19 @@
-name: Waka Readme
-
+name: Latest blog post workflow
 on:
   schedule:
-    - cron: '30 18 * * *'
+    - cron: '0 */6 * * *'  # Every 6 hours
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  update-readme-with-blog:
+    name: Update README with blog posts
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: anmol098/waka-readme-stats@master
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_TIMEZONE: "False"
-          SHOW_EDITORS: "False"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_SHORT_INFO: "False"
-          SHOW_LOC_CHART: "False"
+          feed_list: "https://arshnoor.hashnode.dev/rss.xml,https://medium.com/feed/@arshnoorsinghsohi"
+          max_post_count: 5
+          commit_message: "Updated with latest blog posts"
+          committer_username: "blog-post-bot"
+          committer_email: "blog-post-bot@users.noreply.github.com"
