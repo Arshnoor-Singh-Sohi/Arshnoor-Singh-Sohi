@@ -180,6 +180,39 @@ django_lab3              2 hrs 5 mins        ███░░░░░░░░�
   <p><em>📊 Coding metrics will appear here once WakaTime is configured</em></p>
 </div>
 
+
+## 📊 My Coding Analytics
+
+<div align="center">
+  
+  <!-- WakaTime Stats -->
+  <h3>⏱️ Coding Activity Timeline</h3>
+  <a href="https://wakatime.com/@cbd7da79-c5f7-462a-ada9-74a815934c6f">
+    <img width="90%" src="https://wakatime.com/share/@cbd7da79-c5f7-462a-ada9-74a815934c6f/a2e2ce16-748b-470a-92f9-59d404e40bfe.svg" alt="Coding Activity" />
+  </a>
+  
+  <br/><br/>
+  
+  <h3>💻 Languages Distribution</h3>
+  <a href="https://wakatime.com/@cbd7da79-c5f7-462a-ada9-74a815934c6f">
+    <img width="60%" src="https://wakatime.com/share/@cbd7da79-c5f7-462a-ada9-74a815934c6f/7c35bbf1-8f59-488e-9539-dcd3e0645956.svg" alt="Languages" />
+  </a>
+  
+  <br/><br/>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Tracking_Since-2024-blue?style=flat-square" alt="Tracking Since" />
+    <img src="https://img.shields.io/badge/Powered_By-WakaTime-green?style=flat-square" alt="Powered by WakaTime" />
+    <img src="https://img.shields.io/badge/Updates-Real_Time-orange?style=flat-square" alt="Real-time Updates" />
+  </div>
+  
+  <br/>
+  
+  <sub><b>📈 Stats update automatically</b> when you view this profile</sub>
+  
+</div>
+
+
 ## 💻 Featured Projects
 
 <h3 align="center">
