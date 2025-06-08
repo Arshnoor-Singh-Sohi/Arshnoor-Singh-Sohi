@@ -133,11 +133,8 @@
 
 <div align="center">
   
-  <!-- Animated Stats Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=1.6%20Million%20Lines%20of%20Code&fontSize=40&fontColor=ffffff&desc=Verified%20Developer%20Metrics&descSize=25&descAlignY=75&animation=fadeIn&fontAlignY=45" width="100%" />
-  
-  <!-- Live GitHub Stats for Authenticity -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arshnoor-Singh-Sohi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <!-- Different Style Banner - Sleek Gradient Bar -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,14,28,42,56&height=100&section=header&text=1.6%20Million%20Lines%20of%20Code&fontSize=35&fontColor=ffffff&desc=Verified%20Developer%20Metrics&descSize=20&descAlignY=70" width="100%" />
   
   <br/><br/>
   
@@ -154,7 +151,9 @@
       </td>
       <td align="center" width="50%">
         <h3>⏱️ Time Invested</h3>
-        <img src="https://wakatime.com/badge/user/cbd7da79-c5f7-462a-ada9-74a815934c6f.svg?style=for-the-badge" alt="Coding Time" />
+        <a href="https://wakatime.com/@cbd7da79-c5f7-462a-ada9-74a815934c6f">
+          <img src="https://wakatime.com/badge/user/cbd7da79-c5f7-462a-ada9-74a815934c6f.svg?style=for-the-badge&color=FF6B6B" alt="Coding Time" />
+        </a>
         <br/><br/>
         <a href="https://github.com/Arshnoor-Singh-Sohi">
           <img src="https://img.shields.io/badge/Explore_Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
