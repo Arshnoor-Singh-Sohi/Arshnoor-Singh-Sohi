@@ -133,8 +133,8 @@
 
 <div align="center">
   
-  <!-- Unique Cylinder Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,5,10,15,20,25,30&height=180&section=header&text=1.6%20Million%20Lines%20of%20Code&fontSize=42&fontColor=00D9FF&desc=Verified%20Developer%20Metrics&descSize=22&descAlignY=75&animation=blinking&reversal=true" width="100%" />
+  <!-- Creative Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30&height=200&section=header&text=1.6%20Million%20Lines%20of%20Code&fontSize=45&fontColor=ffffff&desc=『%20From%20Hello%20World%20to%20Production%20』&descSize=25&descAlignY=80&animation=twinkling&stroke=00D9FF&strokeWidth=2" width="100%" />
   
   <br/><br/>
   
@@ -171,7 +171,6 @@
   </details>
   
 </div>
-
 
 ---
 
