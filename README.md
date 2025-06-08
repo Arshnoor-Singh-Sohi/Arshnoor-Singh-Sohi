@@ -133,51 +133,25 @@
 
 <div align="center">
   
-  <!-- Cyber-style Header -->
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,12,18,24,30&height=140&section=header&text=『1.6%20Million%20Lines%20of%20Code』&fontSize=32&fontColor=00D9FF&animation=fadeIn" width="100%" />
+  <!-- Neon Glow Effect -->
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=1.6M%20Lines%20of%20Code&width=800&height=200" width="80%" />
+  
+  <br/><br/>
+  
+  <!-- Stats Grid -->
+  <div align="center">
+    <img width="45%" src="https://img.shields.io/badge/Code%20Written-1.6%20Million%20Lines-00D9FF?style=for-the-badge&labelColor=000000&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMEQ5RkYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWxpbmUgcG9pbnRzPSIxNiAxOCAyMiAxMiAxNiA2Ii8+PHBvbHlsaW5lIHBvaW50cz0iOCA2IDIgMTIgOCAxOCIvPjwvc3ZnPg==" />
+    &nbsp;
+    <img width="45%" src="https://wakatime.com/badge/user/cbd7da79-c5f7-462a-ada9-74a815934c6f.svg?style=for-the-badge&labelColor=000000" />
+  </div>
   
   <br/>
   
-  <!-- Verified Metrics Dashboard -->
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>📝 Code Volume</h3>
-        <img src="https://img.shields.io/badge/1.6M+_Lines-Verified_by_WakaTime-00D9FF?style=for-the-badge&logo=wakatime&logoColor=white" alt="Code Volume" />
-        <br/><br/>
-        <a href="https://wakatime.com/@cbd7da79-c5f7-462a-ada9-74a815934c6f">
-          <img src="https://img.shields.io/badge/View_Detailed_Analytics-2962FF?style=flat-square&logo=wakatime&logoColor=white" alt="View Stats" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <h3>⏱️ Time Invested</h3>
-        <div>
-          <img src="https://wakatime.com/badge/user/cbd7da79-c5f7-462a-ada9-74a815934c6f.svg?style=for-the-badge" alt="Total Time Coded" />
-        </div>
-        <br/>
-        <a href="https://github.com/Arshnoor-Singh-Sohi">
-          <img src="https://img.shields.io/badge/Explore_Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <!-- Verification Links -->
-  <details>
-    <summary><b>📊 How These Stats Are Calculated</b></summary>
-    <br/>
-    <ul align="left">
-      <li>📈 <b>Lines of Code:</b> Tracked via WakaTime IDE plugin across all projects since 2020</li>
-      <li>⏰ <b>Coding Hours:</b> Real-time tracking of active coding sessions</li>
-      <li>✅ <b>Verification:</b> Click any badge to view live, unedited statistics</li>
-      <li>🔄 <b>Updates:</b> Statistics refresh automatically when you view this profile</li>
-    </ul>
-  </details>
+  <a href="https://wakatime.com/@cbd7da79-c5f7-462a-ada9-74a815934c6f">
+    <img src="https://img.shields.io/badge/Verify%20on%20WakaTime-Click%20Here-00FF88?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=000000" />
+  </a>
   
 </div>
-
 ---
 
 ## 📊 Coding Activity Dashboard
