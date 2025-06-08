@@ -179,7 +179,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Live+Coding+Metrics" alt="Coding Stats Typing SVG" />
 </div>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+
 
 **I'm an Early 🐤** 
 
