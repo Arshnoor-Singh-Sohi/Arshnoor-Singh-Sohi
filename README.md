@@ -128,12 +128,45 @@
 </div>
 
 ---
+
+## 📊 Developer Statistics
+
+<div align="center">
+  
+  <!-- Main Stats Banner -->
+  <picture>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,4,5&height=120&section=header&text=1.6%20Million%20Lines%20of%20Code&fontSize=30&fontColor=ffffff&desc=From%20Hello%20World%20to%20Production&descSize=20&descAlignY=70" width="100%" />
+  </picture>
+  
+  <br/>
+  
+  <!-- Detailed Stats Grid -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=Total%20Lines&query=%24.value&url=https://img.shields.io/badge/dynamic/json-1.6M-blue.json&style=for-the-badge&logo=visual-studio-code" alt="Total Lines" />
+        <br/><strong>Code Written</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Since-2020-FF6B6B?style=for-the-badge&logo=github" alt="Coding Since" />
+        <br/><strong>Years Coding</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Daily_Average-1000+-00FF88?style=for-the-badge&logo=trending-up" alt="Daily Average" />
+        <br/><strong>Lines Per Day</strong>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+
 ## 📊 Coding Activity Dashboard
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Live+Coding+Metrics" alt="Coding Stats Typing SVG" />
 </div>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+
 
 **I'm an Early 🐤** 
 
