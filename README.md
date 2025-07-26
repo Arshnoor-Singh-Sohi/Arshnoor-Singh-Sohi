@@ -59,6 +59,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshnoor-Singh-Sohi&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </div>
 
+![Hello World](assets/study.gif)
+
 ---
 
 ## 📊 GitHub Insights & Analytics
