@@ -25,13 +25,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arshnoor-Singh-Sohi&theme=tokyonight" alt="Arshnoor's GitHub Activity" width="100%" />
 </div>
 
-![Hello World](assets/helloworld.gif)
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+![Hello World](assets/helloworld.gif)
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&background=FFFFFF00&vCenter=true&width=435&lines=Master's+Student+in+Applied+Computing;AI+Specialization+at+UWindsor;RAG+Systems+Expert;Full-Stack+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
