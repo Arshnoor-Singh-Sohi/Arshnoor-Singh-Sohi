@@ -25,7 +25,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arshnoor-Singh-Sohi&theme=tokyonight" alt="Arshnoor's GitHub Activity" width="100%" />
 </div>
 
-![Hello World](helloworld.gif)
+![Hello World](assets/helloworld.gif)
 
 ---
 
