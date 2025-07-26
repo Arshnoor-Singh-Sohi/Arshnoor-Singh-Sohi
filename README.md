@@ -83,6 +83,8 @@
   </div>
 </div>
 
+![Hello World](assets/laptop.gif)
+
 ---
 
 ## 📈 Activity & Contributions
