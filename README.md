@@ -536,7 +536,7 @@ Text                     32 mins             █░░░░░░░░░░�
   
 ### 📮 **Reach Out**
 
-📧 **Email:** [sohi21@uwindsor.ca](mailto:sohi21@uwindsor.ca)  
+📧 **Email:** [sohi21@uwindsor.ca](mailto:arshnoorsingh002@gmail.com)  
 📱 **Phone:** 548-332-5999  
 🌐 **Portfolio:** [arshnoorsinghsohi.com](https://www.arshnoorsinghsohi.com/)  
 🔗 **LinkedIn:** [linkedin.com/in/arshnoorsinghsohi](https://www.linkedin.com/in/arshnoorsinghsohi/)  
